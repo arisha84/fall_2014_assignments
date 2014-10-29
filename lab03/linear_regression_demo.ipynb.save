@@ -1,11 +1,7 @@
 {
  "metadata": {
   "name": "",
-<<<<<<< HEAD
-  "signature": "sha256:2d6e385c0bf55622d9dccd78561cfe5df7351423ffbda6f8b44201c268945eb9"
-=======
   "signature": "sha256:76d67472a34f34a77006a33f5fe43cf77d36344e95e6ac76bab7a9f3f0110e2f"
->>>>>>> upstream/master
  },
  "nbformat": 3,
  "nbformat_minor": 0,
@@ -36,11 +32,7 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-<<<<<<< HEAD
-     "prompt_number": 39
-=======
      "prompt_number": 1
->>>>>>> upstream/master
     },
     {
      "cell_type": "markdown",
@@ -71,11 +63,7 @@
      "language": "python",
      "metadata": {},
      "outputs": [],
-<<<<<<< HEAD
-     "prompt_number": 40
-=======
      "prompt_number": 2
->>>>>>> upstream/master
     },
     {
      "cell_type": "code",
@@ -93,8 +81,6 @@
        ],
        "metadata": {},
        "output_type": "pyout",
-<<<<<<< HEAD
-       "prompt_number": 41,
        "text": [
         "<IPython.core.display.Image at 0x7f7e56f0f7d0>"
        ]
